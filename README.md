@@ -1,4 +1,7 @@
 ### Hi there 👋
+Hi, I'm @ChamindaIndunil
+I'm currently working on Cloud and DevOps Engineering
+I’m currently learning Inormation Technology (MSc Westminster) 
 
 <!--
 **chamindaindunil/ChamindaIndunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
