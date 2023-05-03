@@ -1,7 +1,8 @@
-### Hi there 👋
-- 🔭 Hi, I'm @ChamindaIndunil
-- 🌱 I'm currently working on Cloud and DevOps Engineering
-- 👯 I’m currently learning Inormation Technology (MSc Westminster) 
+- Hi, I'm @ChamindaIndunil
+- I'm currently working on Cloud and DevOps Engineering
+- I’m interested in Cloud, Cloud Native, Machine Learning and Deep Learning
+- I’m currently learning Inormation Technology (MSc Westminster) 
+- How to reach me: https://www.linkedin.com/in/chamindaindunil/
 
 <!--
 **chamindaindunil/ChamindaIndunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
