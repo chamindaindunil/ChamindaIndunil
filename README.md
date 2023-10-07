@@ -1,7 +1,7 @@
 - Hi, I'm @ChamindaIndunil
 - I'm currently working on Cloud and DevOps Engineering
-- I’m interested in Cloud, Cloud Native, Machine Learning and Deep Learning
-- I’m currently learning Inormation Technology (MSc Westminster) 
+- I’m interested in DevOps, Cloud, Cloud Native technologies
+- I’m graduated MSc Inormation Technology (Westminster) 
 - How to reach me: https://www.linkedin.com/in/chamindaindunil/
 
 <!--
